@@ -1,1 +1,3 @@
-<hello>Content from main branch</hello> 
+<<<<<<< HEAD
+<hello>Content from main branch $ Subbranch</hello> 
+>>>>>> GitWork
